@@ -1,2 +1,2 @@
 worker: node src/bot.js
-worker node config.js
+worker: node config.js
